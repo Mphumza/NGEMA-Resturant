@@ -63,5 +63,5 @@ Ensure you have the following installed:
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-For inquiries or contributions, reach out at **mphumelelingema@gmail.com**.
+For inquiries or contributions, reach out at **mphumelelingema@icloud.com**.
 
